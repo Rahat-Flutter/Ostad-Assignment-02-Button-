@@ -1,0 +1,15 @@
+#---------- flutter native splash screen ----------#
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#000000"
+  image: assets/logo/cart.png
+  image_dark: assets/logo/cart.png
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#000000"
+    image: assets/logo/cart.png
+    image_dark: assets/logo/cart.png
+
+
+  web: false
